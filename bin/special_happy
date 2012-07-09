@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'special_happy'
+
+SpecialHappy::CLI.start
