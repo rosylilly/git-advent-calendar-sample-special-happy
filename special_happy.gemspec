@@ -14,4 +14,6 @@ Gem::Specification.new do |gem|
   gem.name          = "special_happy"
   gem.require_paths = ["lib"]
   gem.version       = SpecialHappy::VERSION
+
+  gem.add_dependency 'thor'
 end
